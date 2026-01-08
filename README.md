@@ -1,4 +1,4 @@
-# 👩🏼‍💻 Hellen Marinho Cordeiro
+# 👩🏼‍💻👩🏻‍💻 Hellen Marinho Cordeiro
 
 **`Desenvolvedora Full Stack | QA`**
 
@@ -56,8 +56,13 @@ Script em Python para geração automática de QR Codes personalizados, exploran
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github.com/hmarinhoo/hmarinhoo/blob/main/github-metrics.svg" />
+  <!-- Estatísticas gerais -->
+  <img src="https://github-readme-stats.vercel.app/api?username=hmarinhoo&show_icons=true&count_private=true&bg_color=ffffff&title_color=ff69b4&text_color=ff85c1&icon_color=ff1493&locale=ptBR" />
+
+  <!-- Linguagens mais usadas -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmarinhoo&layout=compact&langs_count=6&bg_color=ffffff&title_color=ff69b4&text_color=ff85c1&icon_color=ff1493&locale=ptBR" />
 </p>
+
 
 ---
 
