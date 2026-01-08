@@ -63,18 +63,17 @@ Script em Python para geração automática de QR Codes personalizados, exploran
     src="https://github-readme-stats-eight-theta.vercel.app/api?username=hmarinhoo&show_icons=true&include_all_commits=true&locale=pt-br&title_color=ff69b4&text_color=ffd700&icon_color=da70d6&border_color=ffb6c1&bg_color=transparent"
   />
 
-  <!-- Top Linguagens rosa, amarelo bebê e lilás, fundo transparente -->
+  <!-- Top Linguagens rosa, amarelo bebê e lilás, fundo transparente, texto maior -->
   <img 
     align="left" 
     height="200" 
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hmarinhoo&layout=compact&langs_count=8&hide=html,css&title_color=ff69b4&text_color=ffd700&icon_color=da70d6&border_color=ffb6c1&bg_color=transparent"
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hmarinhoo&layout=compact&langs_count=8&hide=html,css&title_color=ff69b4&text_color=ffd700&icon_color=da70d6&border_color=ffb6c1&bg_color=transparent&text_size=16"
   />
 </p>
 
 <br clear="left"/>
 
 ---
-
 
 
 ✨ *Construindo soluções com foco em qualidade, aprendizado contínuo e boa experiência do usuário.*
