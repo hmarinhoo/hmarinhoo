@@ -76,4 +76,5 @@ Script em Python para geração automática de QR Codes personalizados, exploran
 ---
 
 
+
 ✨ *Construindo soluções com foco em qualidade, aprendizado contínuo e boa experiência do usuário.*
