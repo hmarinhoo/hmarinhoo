@@ -57,11 +57,12 @@ Script em Python para geração automática de QR Codes personalizados, exploran
 
 <p align="center">
   <!-- Estatísticas gerais -->
-  <img src="https://github-readme-stats.vercel.app/api?username=hmarinhoo&show_icons=true&count_private=true&bg_color=ffffff&title_color=ff69b4&text_color=ff85c1&icon_color=ff1493&locale=ptBR" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hmarinhoo&show_icons=true&count_private=true&theme=pink-rose&locale=ptBR" />
 
   <!-- Linguagens mais usadas -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmarinhoo&layout=compact&langs_count=6&bg_color=ffffff&title_color=ff69b4&text_color=ff85c1&icon_color=ff1493&locale=ptBR" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmarinhoo&layout=compact&langs_count=6&theme=pink-rose&locale=ptBR" />
 </p>
+
 
 
 ---
