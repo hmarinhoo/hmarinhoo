@@ -1,4 +1,4 @@
-# 👩🏼‍💻👩🏻‍💻 Hellen Marinho Cordeiro
+# 👩🏼‍💻 Hellen Marinho Cordeiro
 
 **`Desenvolvedora Full Stack | QA`**
 
