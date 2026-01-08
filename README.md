@@ -56,18 +56,18 @@ Script em Python para geração automática de QR Codes personalizados, exploran
 ## 📊 Estatísticas do GitHub
 
 <p>
-  <!-- GitHub Stats em rosa -->
+  <!-- GitHub Stats coloridinho com predominância de rosa -->
   <img 
     align="left" 
     height="200" 
-    src="https://github-readme-stats-eight-theta.vercel.app/api?username=hmarinhoo&show_icons=true&include_all_commits=true&locale=pt-br&title_color=ff69b4&text_color=ff69b4&icon_color=ff1493&bg_color=ffffff00"
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=hmarinhoo&show_icons=true&include_all_commits=true&locale=pt-br&title_color=ff69b4&text_color=ff66cc&icon_color=ff1493&bg_color=ffffff00&border_color=ff69b4"
   />
 
-  <!-- Top Linguagens em rosa -->
+  <!-- Top Linguagens coloridinho com predominância de rosa -->
   <img 
     align="left" 
     height="200" 
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hmarinhoo&layout=compact&langs_count=8&hide=html,css&title_color=ff69b4&text_color=ff69b4&icon_color=ff1493&bg_color=ffffff00"
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hmarinhoo&layout=compact&langs_count=8&hide=html,css&title_color=ff69b4&text_color=ff66cc&icon_color=ff1493&bg_color=ffffff00&border_color=ff69b4"
   />
 </p>
 
